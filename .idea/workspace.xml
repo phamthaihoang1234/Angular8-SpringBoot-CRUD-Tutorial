@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61e94d68-26a4-4583-898f-738e66adf7df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/create-employee/create-employee.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/create-employee/create-employee.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/create-employee/create-employee.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/create-employee/create-employee.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/employee-list/employee-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/employee-list/employee-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/employee.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/employee.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/update-employee/update-employee.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/update-employee/update-employee.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular8-springboot-client/src/app/update-employee/update-employee.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular8-springboot-client/src/app/update-employee/update-employee.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/exception/ErrorDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/test/java/net/guides/springboot2/springboot2jpacrudexample/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2-jpa-crud-example/src/test/java/net/guides/springboot2/springboot2jpacrudexample/EmployeeControllerIntegrationTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1peDhNXDNQGMSLzIizYmEWlLcH6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Codegym_M5_Angular_Exam" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="E:\Angular Project\Angular8-SpringBoot-CRUD-Tutorial\angular8-springboot-client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e94d68-26a4-4583-898f-738e66adf7df" name="Default Changelist" comment="" />
+      <created>1615534780621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615534780621</updated>
+      <workItem from="1615534781703" duration="3949000" />
+      <workItem from="1615778856936" duration="1578000" />
+      <workItem from="1615992004869" duration="959000" />
+      <workItem from="1616041366890" duration="615000" />
+      <workItem from="1616051355914" duration="1155000" />
+      <workItem from="1616055170257" duration="1194000" />
+      <workItem from="1616057035432" duration="1120000" />
+      <workItem from="1616059704111" duration="653000" />
+      <workItem from="1616127741613" duration="598000" />
+      <workItem from="1616160847572" duration="1124000" />
+      <workItem from="1616303396437" duration="1197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="140" key="FileChooserDialogImpl" timestamp="1615535632271">
+      <screen x="0" y="0" width="1440" height="770" />
+    </state>
+    <state x="501" y="140" key="FileChooserDialogImpl/0.0.1440.770@0.0.1440.770" timestamp="1615535632271" />
+  </component>
+</project>
